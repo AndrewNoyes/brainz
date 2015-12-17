@@ -26,8 +26,8 @@
           <file leaf-file-name="index.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/docs/index.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.34301856">
-                  <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+                <state vertical-scroll-proportion="0.38418078">
+                  <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
                   <folding />
                 </state>
               </provider>
@@ -37,11 +37,31 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/docs/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.519774">
-                  <caret line="53" column="51" selection-start-line="53" selection-start-column="51" selection-end-line="53" selection-end-column="51" />
+                <state vertical-scroll-proportion="-26.807692">
+                  <caret line="41" column="30" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="robots.txt" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/docs/robots.txt">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="sitemap.xml" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/docs/sitemap.xml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.3155771">
+                  <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -121,10 +141,6 @@
               <option name="myItemId" value="BrainzBootstrap" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -149,6 +165,28 @@
               <option name="myItemId" value="BrainzBootstrap" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dist" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BrainzBootstrap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BrainzBootstrap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dist" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -165,15 +203,16 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\_Projects\Brainz\BrainzBootstrap\docs" />
-      <recent name="C:\_Projects\Brainz\BrainzBootstrap\docs\assets\img" />
-      <recent name="C:\_Projects\Brainz\BrainzBootstrap\dist" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\_Projects\Brainz\_Repo\brainz\BrainzBootstrap\docs" />
       <recent name="C:\_Projects\Brainz\BrainzBootstrap\docs" />
       <recent name="C:\_Projects\Brainz\BrainzBootstrap\docs\assets\img" />
       <recent name="C:\_Projects\Brainz\BrainzBootstrap\docs\assets" />
+      <recent name="C:\_Projects\Brainz\BrainzBootstrap\dist" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\_Projects\Brainz\BrainzBootstrap\docs" />
+      <recent name="C:\_Projects\Brainz\BrainzBootstrap\docs\assets\img" />
       <recent name="C:\_Projects\Brainz\BrainzBootstrap\dist" />
     </key>
   </component>
@@ -249,7 +288,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="2576" height="1426" extended-state="0" />
+    <frame x="-8" y="-8" width="2576" height="1426" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17130366" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
@@ -324,23 +363,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/icon_brainz.ico">
+    <entry file="file://$PROJECT_DIR$/docs/favicon.ico">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34301856">
-          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+        <state vertical-scroll-proportion="0.38418078">
+          <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.519774">
-          <caret line="53" column="51" selection-start-line="53" selection-start-column="51" selection-end-line="53" selection-end-column="51" />
+        <state vertical-scroll-proportion="-26.807692">
+          <caret line="41" column="30" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/robots.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/sitemap.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3155771">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding />
         </state>
       </provider>

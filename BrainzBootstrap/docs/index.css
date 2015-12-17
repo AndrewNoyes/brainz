@@ -1,0 +1,30 @@
+body {
+  padding-top: 50px;
+}
+.index-main {
+  /*padding: 40px 15px;*/
+  text-align: center;
+}
+
+#index-main-navbar.navbar-default {
+  font-size: 14px;
+  border-width: 0px;
+  border-radius: 0px;
+}
+
+#index-main-navbar.navbar-default .navbar-nav >li{
+    width: 100px;
+    text-align: center;
+}
+
+.vcenter {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
+
+.hcenter{
+    display:inline-block;
+    horiz-align: center;
+    float: none;
+}
